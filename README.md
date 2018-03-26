@@ -1,5 +1,5 @@
 # forense-windows
- Script simple que realiza un levantamiento de evidencia de una maquina Windows
+ mini-tool-forense-win.bat es un script simple que realiza un levantamiento de evidencia de una maquina Windows.
 
 
 
