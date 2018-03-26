@@ -1,12 +1,12 @@
 # forense-windows
- script simple que realiza un levantamiento de evidencia de una maquina Windows
+ Script simple que realiza un levantamiento de evidencia de una maquina Windows
 
 
 
 # Lista de comandos y programas utilizados el en script
 
 COMANDO	INFORMACION RESCATADA <br><br>
-echo	Comando utilizado para enviar información a pantalla o archivo.<br>
+<b>echo	</b>Comando utilizado para enviar información a pantalla o archivo.<br>
 NET SESSION	Obtiene el identificador de la actual sesión en ejecución, con el cual se puede obtener si la sesión tiene privilegios administrativos.<br>
 Mkdir	Comando sistema operativo DOS, utilizado para la creación de directorios en el sistema de archivos.<br>
 SET	Comando de sistema para el seteo de variables de entorno <br>
